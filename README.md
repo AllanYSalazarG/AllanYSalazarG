@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on my personal develpment and my data analyst/web develpment/english trainee
+- 🔭 I’m currently working on my personal develpment and my data analyst/web develpment/english career
 - 🌱 I’m currently learning Excel, BI solutions, SQL, Python and statistics.
 
 <!--
